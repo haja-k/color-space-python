@@ -130,6 +130,6 @@ dmypy.json
 
 #folder exclusion
 /color
-/res/dataset/fake/*
-/res/dataset/real/*
+/dataset/fake/*
+/dataset/real/*
 /data/*
