@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#folder exclusion
+/color
+/res/dataset/fake/*
+/res/dataset/real/*
+/data/*
