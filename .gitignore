@@ -6,3 +6,5 @@
 /dataset-ori
 **/.ipynb_checkpoints
 ***/__pycache__
+**/img
+**/ocr/*.json
