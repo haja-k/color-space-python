@@ -7,8 +7,3 @@ Formulating 2D density plot histogram for color space conversion from face extra
 3. run `pip install -r requirements.txt`
 4. run `jupyter notebook` to open jupyter notebook and start coding
 5. run `deactivate` to deactivate virtual environment once the work has been completed or to be continued on a later date
-
-## Bonus research
-- Google Text Extraction
-    - Vision API for image text extraction and labelling
-    - Source codes inside /ocr

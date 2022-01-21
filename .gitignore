@@ -3,7 +3,8 @@
 /dataset/fake/*
 /dataset/real/*
 /data/*
-/dataset-ori
+/dataset-ori/fake/*
+/dataset-ori/real/*
 **/.ipynb_checkpoints
 ***/__pycache__
 **/img
