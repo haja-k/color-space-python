@@ -1,4 +1,4 @@
-# color space research
+# Research: Color Space 
 Formulating 2D density plot histogram for color space conversion from face extracted using opencv caffemodel
 
 ## How to start
